@@ -1,5 +1,3 @@
 # Instructions
 
-Aplicar la imputación por media/mediana y regresión lineal, aprendimos que la elección del método depende de la naturaleza de los datos faltantes. La imputación por media o mediana es simple y rápida, pero la regresión permite capturar relaciones entre variables, ofreciendo imputaciones más precisas cuando los datos faltantes están relacionados con otras características. 
-
-
+Los métodos de imputación simples, como el uso de la media, mediana o modo, son útiles por su simplicidad y rapidez, aunque pueden ser limitados en precisión. Por otro lado, la imputación por regresión permite estimaciones más precisas al capturar relaciones entre variables. Esto resalta lo importante de comprender el contexto y las características y naturaleza de los datos para seleccionar la mejor estrategia. 
